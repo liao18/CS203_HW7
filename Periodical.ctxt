@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printSummary()
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=int\ getNumInStock()
+comment3.params=price
+comment3.target=void\ sellOneCopy(double)
+comment4.params=
+comment4.target=double\ getTotalSales()
+comment5.params=initId\ initStock\ initTitle\ initCoverPrice
+comment5.target=Periodical(int,\ int,\ java.lang.String,\ double)
+numComments=6

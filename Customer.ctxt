@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=initNickname\ initVisitTime\ initDaily\ initPoverty
+comment0.target=Customer(java.lang.String,\ int,\ boolean,\ boolean)
+comment0.text=---\=\=\=\ Methods\ \=\=\=---
+comment1.params=
+comment1.target=void\ printSummary()
+comment2.params=
+comment2.target=boolean\ isDaily()
+comment2.text=accessor\ for\ daily
+comment3.params=initDescription
+comment3.target=void\ fillDescription(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=newTime
+comment5.target=void\ setVisitTime(int)
+numComments=6
